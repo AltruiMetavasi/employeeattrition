@@ -1,10 +1,10 @@
 # Questions
 1. what is my name?
-- [ ] Shelloren
-- [ ] Samuel
-- [ ] Tiara
+  - [ ] Shelloren
+  - [ ] Samuel
+  - [ ] Tiara
 
 2. my birthday?
-- [ ] March 12
-- [ ] Feburary 13
-- [ ] July 14
+  - [ ] March 12
+  - [ ] Feburary 13
+  - [ ] July 14
